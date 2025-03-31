@@ -213,6 +213,19 @@ body {
   object-fit: cover;
 }
 
+/* Footer Style */
+
+.brands {
+  background-color: #fff;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.brands-img{
+  width: 100%;
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
   .hero-section h1 {
